@@ -5,7 +5,7 @@ function Euclid(num1, num2) {
 	}
 
 	if(num1 % num2 !== 0) {
-		var remainder === (num1 % num2);
+		var remainder = (num1 % num2);
 		num1 === num2;
 		num2 === remainder;
 
